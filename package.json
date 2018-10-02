@@ -1,0 +1,20 @@
+{
+	"name": "snoosurge",
+	"description": "An event-based wrapper for Snoowrap.",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/haykam821/Snoosurge.git"
+	},
+	"author": "haykam821",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/haykam821/Snoosurge/issues"
+	},
+	"homepage": "https://github.com/haykam821/Snoosurge#readme",
+	"dependencies": {
+		"snoowrap": "^1.15.2"
+	}
+}
